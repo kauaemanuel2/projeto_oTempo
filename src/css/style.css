@@ -83,11 +83,15 @@ section {
         padding: 40px;
     }
 
+    header > h1{
+        font-size: 1.1em;
+    }
+
     section {
         width: 90%;
     }
     body{
-        background-size: 106px;
+        background-size: 90px;
     }
 }
 
@@ -101,7 +105,7 @@ section {
         width: 45%;
     }
     body{
-        background-size: 117px;
+        background-size: 110px;
     }
 }
 
